@@ -406,3 +406,336 @@ color: #828282;
 .footer > p > a {
      color:#828282;
 }
+
+
+
+
+@media screen and (max-width:375px) {
+
+             body {
+               width: 100%;
+             }
+            .header {
+               display: flex;
+               flex-direction: column;
+            }
+
+
+            .header > h1 {
+               width: 313px;
+          height: 29px;
+          padding-top: 32px;
+          padding-left: 11px;
+          gap: 0px;
+          opacity: 0px;
+          font-family:"Playfair Display", serif;
+          font-size: 22px;
+          font-weight: 700;
+          line-height: 31.99px;
+          text-align: left;
+          color: #000000;
+          
+          }
+
+
+
+          .header > p {
+               width: 320px;
+          height: 88px;
+          padding-top: 20px;
+          padding-left: 26px;
+          gap: 0px;
+          opacity: 0px;
+          font-family: "Montserrat", sans-serif;
+          font-size: 12px;
+          font-style: italic;
+          font-weight: 500;
+          line-height: 14.63px;
+          text-align: left;
+          color: #4F4F4F;
+          
+          }
+
+
+          .header > img {
+               width: 352px;
+          height: 202px;
+          padding-top: 25px;
+          padding-left: 11px;
+          gap: 0px;
+          border-radius: 12px;
+          opacity: 0px;
+          
+          }
+          
+          
+          .header {
+               margin-bottom: 60px;
+          }
+
+
+          .container {
+               display: flex;
+               flex-direction: column;
+               
+              
+          }
+
+          .info2 {
+               
+               flex-direction: row;
+               
+               padding-top: 10px;
+               padding-left: 10px;
+               width: 81px;
+               height: 26px;
+              
+               gap: 0px;
+               opacity: 0px;
+               
+          
+          
+          }
+
+
+          .con-info2 {
+               width: 280px;
+          height: 37px;
+          display: flex;
+          margin-top: -420px;
+          flex-direction: row;
+          margin-left: 14px;
+          gap: 0px;
+          border-radius: 12px 0px 0px 0px #000000;
+          opacity: 0px;
+          border: 1px solid #00000009;
+          box-shadow: 5px 5px 3px 5px #00000009;
+          
+          
+          
+          }
+
+          .infos > p {
+               width: 90px;
+height: 10px;
+
+
+font-size: 8px;
+font-weight: 700;
+line-height: 9.75px;
+text-align: left;
+
+gap: 0px;
+opacity: 0px;
+
+          }
+
+
+          .infos1 > p {
+               font-size: 10px;
+          }
+
+          .infos > h5 {
+               font-size: 10px;
+          }
+
+          .con-info > h3 {
+               width: 96px;
+               height: 24px;
+               
+               padding-left: 12px;
+               gap: 0px;
+               opacity: 0px;
+               font-family: "Playfair Display", serif;
+          font-size: 18px;
+          font-weight: 700;
+          line-height: 23.99px;
+          text-align: left;
+          color: #333333;
+          
+          }
+
+          .con-info > h4 {
+               padding-left: 20px;
+               padding-top: 10px;
+               font-size: 16px;
+          }
+
+
+          .con-info > ul >li {
+               width: 321px;
+               font-size: 12px;
+               
+          }
+
+          .bold {
+              
+font-size: 12px;
+font-weight: 700;
+line-height: 25px;
+text-align: left;
+
+          }
+
+
+          .con-info > ul {
+               padding-left: 37px;
+               margin-top: -30px;
+          }
+
+
+          .connn {
+               display: flex;
+               flex-direction: column;
+          }
+
+          .connn > h4 {
+               margin-left: -225px;
+               font-size: 18px;
+              
+          }
+
+          .connn > ul {
+               margin-left: -205px;
+               width: 353px;
+
+          }
+
+          .connn > ul > li {
+               font-size: 12px;
+
+          }
+
+
+       .first-con {
+          margin-bottom: 450px;
+          
+       }
+
+
+       .sec-con {
+          margin-left: -220px;
+       }
+          
+
+       .sec-con > h3 {
+          font-size: 24px;
+       }
+
+       .number {
+          width: 33px;
+height: 26px;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 0px;
+border-radius: 6px;
+opacity: 0px;
+font-size: 18px;
+padding: 5px;
+
+       }
+
+
+    
+
+       .para > p {
+          font-size: 12px;
+       }
+
+       .con-5 {
+          margin-bottom: 260px;
+       }
+
+
+       .source {
+          width: 352px;
+          height: 36px;
+          
+          margin-left: 12px;
+          gap: 0px;
+          opacity: 0px;
+          
+     
+     }
+
+     .source > p {
+        
+font-size: 12px;
+font-style: italic;
+font-weight: 400;
+line-height: 18px;
+text-align: left;
+
+     }
+
+
+
+     .footer {
+          width: 287px;
+     
+     
+     padding-left: 3px;
+     gap: 0px;
+     opacity: 0px;
+     margin-bottom: 30px;
+     
+     }
+      .footer > p {
+          font-size: 10px;
+          
+      }
+
+
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+}
